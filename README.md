@@ -6,5 +6,6 @@
 console.log("haii");
 ```
 |memek|mido|
+|------- | -------|
 |kontol|tumbur|
 
