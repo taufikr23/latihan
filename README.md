@@ -2,3 +2,6 @@
 ```html
 <h1>mmemek</h1>
 ```
+```js
+console.log("haii");
+```
